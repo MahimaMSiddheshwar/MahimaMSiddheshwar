@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mahima .M. Siddheshwar
 
 ## 🌟 About Me
-I'm a passionate Bioinformatics professional with a strong background in Quality Control in the biopharmaceutical industry. Currently pursuing my Master of Science in Bioinformatics at Indiana University, I'm enthusiastic about combining computational tools and biological data to drive meaningful insights in healthcare and pharmaceutical research.
+I'm a passionate Bioinformatics professional with a strong background in Quality Control in the biopharmaceutical industry. I have two years of experience at Biocon Biologics, a leading global biopharmaceutical company based in India, known for its commitment to affordable healthcare solutions. :contentReference[https://www.bioconbiologics.com/] Currently, I'm pursuing my Master of Science in Bioinformatics at Indiana University, where I'm enthusiastic about combining computational tools and biological data to drive meaningful insights in healthcare and pharmaceutical research.
 
 ## 👀 I’m Interested In:
 - Genomics and Transcriptomics analysis (RNA-seq, scRNA-seq)
