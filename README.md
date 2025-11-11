@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Mahima .M. Siddheshwar
 
 ## 🌟 About Me
-I'm a passionate Bioinformatics professional with a strong background in Quality Control in the biopharmaceutical industry. I have two years of experience at Biocon Biologics Reference[https://www.bioconbiologics.com/], a leading global biopharmaceutical company based in India, known for its commitment to affordable healthcare solutions. Currently, I'm pursuing my Master of Science in Bioinformatics at Indiana University, where I'm enthusiastic about combining computational tools and biological data to drive meaningful insights in healthcare and pharmaceutical research.
+I am a Bioinformatics professional passionate about turning complex biological data into actionable insights for pharma R&D and clinical research. My focus lies in transcriptomics, multi-omics integration, and machine learning-based biomarker discovery, leveraging computational methods to understand disease mechanisms and therapeutic response. I specialize in building and optimizing bioinformatics pipelines — from RNA-seq preprocessing and normalization to differential expression, WGCNA, and GSEA-based network analysis. My technical toolkit includes Python, R, Bash, and SQL, with hands-on experience in HPC environments (SLURM) and data visualization using Power BI, Tableau, ggplot2, and Plotly. Pursued my Master’s in Bioinformatics at Indiana University, I’m exploring projects that combine genomics, statistics, and AI to support data-driven decision-making in precision medicine. Before this, I completed a certified training at Biocon Academy, where I gained comprehensive exposure to biopharmaceutical processes, GMP, QA, and regulatory systems — a foundation that helps me bridge scientific rigor with computational precision.
 
+I’m now seeking opportunities to apply bioinformatics, AI, and data science in pharmaceutical research, translational genomics, and digital health innovation.
 ## 👀 I’m Interested In: 
 - Genomics and Transcriptomics analysis (RNA-seq, scRNA-seq)
 - Developing interactive data dashboards and visualizations using Power BI
@@ -23,8 +24,8 @@ I'm a passionate Bioinformatics professional with a strong background in Quality
 - Computational methods for cancer biomarker discovery 
 
 ## 📫 How to Reach Me:
-- **Email:** msiddhe@iu.edu | mahimamahabaleshwar@gmail.com  
-- **LinkedIn:** [linkedin.com/in/mahima-m-siddheshwar-98a585196](https://www.linkedin.com/in/mahima-m-siddheshwar-98a585196)  
+- **Email:** mahima.siddheshwar@gmail | mahimamahabaleshwar@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/mahima-siddheshwar-98a585196   
 
 ## 😄 Pronouns:
 She/Her  
