@@ -25,7 +25,7 @@
 
 ---
 
-I am a **Bioinformatics Analyst and Computational Biologist** with 3+ years of experience applying genomics, transcriptomics, and data science to support **pharmaceutical R&D, translational research, and biomarker discovery**. My work focuses on extracting biologically meaningful insights from large-scale omics datasets using reproducible, high-performance computational workflows.
+I am a **Bioinformatics Analyst and Computational Biologist** with 2+ years of experience applying genomics, transcriptomics, and data science to support **pharmaceutical R&D, translational research, and biomarker discovery**. My work focuses on extracting biologically meaningful insights from large-scale omics datasets using reproducible, high-performance computational workflows.
 
 I have hands-on experience across the full RNA-seq and scRNA-seq lifecycle, including quality control, normalization, differential expression analysis, WGCNA, and GSEA-based pathway and network interpretation. I routinely work with **Python, R, Bash, and SQL** in **HPC environments (SLURM)**, emphasizing performance optimization, traceability, and reproducibility.
 
