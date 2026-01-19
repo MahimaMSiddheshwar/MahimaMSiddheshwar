@@ -1,5 +1,5 @@
 
-## Bioinformatics Tech Stack
+## Skills
 
 ![RNA-seq](https://img.shields.io/badge/RNA--seq-Transcriptomics-blue)
 ![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Single--Cell-green)
