@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mahima M. Siddheshwar
+# 👋 Hi, I’m Mahima MS  (She / Her)
 
 ## Skills
 
@@ -46,7 +46,7 @@ I earned my **Master’s degree in Bioinformatics from Indiana University (Luddy
 
 ---
 
-## 💞️ Open to Collaborations On
+## 😄 Open to Collaborations On
 
 * Open-source RNA-seq and scRNA-seq analysis projects
 * Biological database design and curation
@@ -61,17 +61,9 @@ I earned my **Master’s degree in Bioinformatics from Indiana University (Luddy
 * **Portfolio:** [https://mahima-portfolio-xi.vercel.app](https://mahima-portfolio-xi.vercel.app)
 * **LinkedIn:** [https://www.linkedin.com/in/mahima-siddheshwar-98a585196](https://www.linkedin.com/in/mahima-siddheshwar-98a585196)
 
----
-
 ## 📫 Contact
 
 * **Email:** [mahima.siddheshwar@gmail.com](mailto:mahima.siddheshwar@gmail.com) | [mahimamahabaleshwar@gmail.com](mailto:mahimamahabaleshwar@gmail.com)
-
----
-
-## 😄 Pronouns
-
-She / Her
 
 ---
 
