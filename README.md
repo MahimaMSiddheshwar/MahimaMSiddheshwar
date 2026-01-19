@@ -1,3 +1,4 @@
+# 👋 Hi, I’m Mahima M. Siddheshwar
 
 ## Skills
 
@@ -25,7 +26,9 @@
 
 ---
 
-I am a **Bioinformatics Analyst and Computational Biologist** with 2+ years of experience applying genomics, transcriptomics, and data science to support **pharmaceutical R&D, translational research, and biomarker discovery**. My work focuses on extracting biologically meaningful insights from large-scale omics datasets using reproducible, high-performance computational workflows.
+## 🌟 About Me
+
+I am a **Bioinformatics Analyst and Computational Biologist** with 3+ years of experience applying genomics, transcriptomics, and data science to support **pharmaceutical R&D, translational research, and biomarker discovery**. My work focuses on extracting biologically meaningful insights from large-scale omics datasets using reproducible, high-performance computational workflows.
 
 I have hands-on experience across the full RNA-seq and scRNA-seq lifecycle, including quality control, normalization, differential expression analysis, WGCNA, and GSEA-based pathway and network interpretation. I routinely work with **Python, R, Bash, and SQL** in **HPC environments (SLURM)**, emphasizing performance optimization, traceability, and reproducibility.
 
@@ -33,7 +36,7 @@ I earned my **Master’s degree in Bioinformatics from Indiana University (Luddy
 
 ---
 
-## Research & Technical Interests
+## 👀 Research & Technical Interests
 
 * Bulk and single-cell transcriptomics (RNA-seq, scRNA-seq)
 * Multi-omics integration and biomarker discovery
@@ -43,7 +46,7 @@ I earned my **Master’s degree in Bioinformatics from Indiana University (Luddy
 
 ---
 
-## Open to Collaborations On
+## 💞️ Open to Collaborations On
 
 * Open-source RNA-seq and scRNA-seq analysis projects
 * Biological database design and curation
@@ -60,18 +63,18 @@ I earned my **Master’s degree in Bioinformatics from Indiana University (Luddy
 
 ---
 
-## Contact
+## 📫 Contact
 
 * **Email:** [mahima.siddheshwar@gmail.com](mailto:mahima.siddheshwar@gmail.com) | [mahimamahabaleshwar@gmail.com](mailto:mahimamahabaleshwar@gmail.com)
 
 ---
 
-## Pronouns
+## 😄 Pronouns
 
 She / Her
 
 ---
 
-## Fun Fact
+## ⚡ Fun Fact
 
 I enjoy exploring new places and cuisines and often find myself drawing parallels between **flavor profiles, metabolism, and biological pathways**. I’m also fluent in multiple languages—both human and computational.
