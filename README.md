@@ -59,6 +59,7 @@ I earned my **Master’s degree in Bioinformatics from Indiana University (Luddy
 
 * **GitHub:** [https://github.com/MahimaMSiddheshwar](https://github.com/MahimaMSiddheshwar)
 * **Portfolio:** [https://mahima-portfolio-xi.vercel.app](https://mahima-portfolio-xi.vercel.app)
+* **BioinformaticInsight website**: [https://bioinformatics-insights.vercel.app/](https://bioinformatics-insights.vercel.app/) 
 * **LinkedIn:** [https://www.linkedin.com/in/mahima-siddheshwar-98a585196](https://www.linkedin.com/in/mahima-siddheshwar-98a585196)
 
 ## 📫 Contact
